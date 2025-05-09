@@ -1,0 +1,2 @@
+E1|gOOGLE|IT|JAVA|2|2|A1
+E2|Apple|Tech|python,java|4|2|A2,A1
