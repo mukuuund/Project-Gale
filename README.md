@@ -71,13 +71,13 @@ This project implements the **Gale-Shapley algorithm** (also known as the Deferr
 ## 📸 Screenshots
 
 ### 🧭 Main Menu
-![Main Menu](screenshots/screenshots/073c9e3e12de4ecc87df7eccd7fed95d.jpg)
+![Main Menu](screenshots/main%20menu.jpg)
 
 ### ✍️ Applicant Entry
-![Applicant Entry](screenshots/2e042b8258204a58aca6ac066410d220.jpg)
+![Applicant Entry](screenshots/applicant.jpg)
 
-### 📊 Final Matches
-![Final Matches](screenshots/9204b0cab7cc4130b08a66cc30b5f056.jpg)
+### 🔁 Matching Result
+![Matching System](screenshots/matching%20system.jpg)
 
 ---
 
@@ -93,11 +93,11 @@ Pull requests, issues, and suggestions are welcome. This is a learning project �
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Authors
 
-Mukund Nigam B-12 Batch  
-Gaurav Solanki B-12 Batch
-Bhavyanshika Gupta B-12 Batch
-Vanshika Chauhan B-12 Batch
-APS Lab 2025  
+- **Mukund Nigam** — B-12 Batch  
+- **Gaurav Solanki** — B-12 Batch  
+- **Bhavyanshika Gupta** — B-12 Batch  
+- **Vanshika Chauhan** — B-12 Batch  
 
+**Lab**: APS Lab 2025
