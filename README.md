@@ -36,10 +36,15 @@ Project Gale/
 │ ├── employers.txt
 │ └── matches.txt
 │
+├── screenshots/ # Screenshots for README
+│ ├── main_menu.jpg
+│ ├── applicant.jpg
+│ └── matching_system.jpg
+│
 ├── main.cpp # Entry point of the program
 ├── Project Gale.cbp # Code::Blocks project file
-└── .gitignore # Git ignored files and folders
-
+├── .gitignore # Git ignored files and folders
+└── README.md # Project documentation
 
 ---
 
